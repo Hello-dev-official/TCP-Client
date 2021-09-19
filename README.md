@@ -1,2 +1,4 @@
 # TCP-Client
-It will allow you to connect to TCP servers, send garbage data. Not only that but you can develop this code into maintaining servers or breaking into target machines. You can also use this to make a TCP Chat room!
+1) Do git clone [gitlink]
+2) Then do python3 TCP-Client.py
+3) Then the client will send some data to that IP, and that is pretty much it, you should get a response back. You can change the IP section to anything you want such as www.facebook.com etc. You can use this TCP-Client to connect to the TCP-server aswell if you wanted to.
